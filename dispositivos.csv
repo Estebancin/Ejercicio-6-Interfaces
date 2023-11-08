@@ -1,0 +1,5 @@
+Tipo,Marca,Modelo,Precio,Cuotas,MemoriaRAM,Procesador,Almacenamiento,ExtiendeMemoria,IncluyeCuboCargador,Es5G,DiscoDuro,VelocidadCPU,VelocidadGPU
+Telefono,Apple,iPhone 13,1000,12,8,A15,128,true,true,true,NA,NA,NA
+Telefono,Samsung,Galaxy S21,900,12,8,Exynos 2100,128,true,false,true,NA,NA,NA
+Computadora,Apple,MacBook Pro,2000,24,16,M1,256,NA,NA,NA,SSD,3.2,NA
+Computadora,Dell,XPS 13,1500,24,16,Intel i7,512,NA,NA,NA,SSD,3.1,NA
